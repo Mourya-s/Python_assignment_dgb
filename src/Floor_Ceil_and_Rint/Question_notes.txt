@@ -1,0 +1,23 @@
+ numpy --> fast operation on arrays
+
+# >floor: convert decimal to smallest int, 2.3-->2  , 5.9-->5, -1,2-->-2
+# >ciel: convert decimal to largest, 3.1-->4,   1.5-->2
+# >rint: covert decimal to nearest int , 3.4-->3,  3.5-->4(odd) , 2.5-->2(even)
+
+
+>>Input Format
+A single line of input containing the space separated elements of array .
+
+>>Output Format
+On the first line, print the  of A.
+On the second line, print the  of A.
+On the third line, print the  of A.
+
+>>Sample Input
+1.1 2.2 3.3 4.4 5.5 6.6 7.7 8.8 9.9
+
+>>Sample Output
+
+[ 1.  2.  3.  4.  5.  6.  7.  8.  9.]
+[  2.   3.   4.   5.   6.   7.   8.   9.  10.]
+[  1.   2.   3.   4.   6.   7.   8.   9.  10.]
