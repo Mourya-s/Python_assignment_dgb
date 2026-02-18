@@ -6,6 +6,6 @@ WEDNESDAY
 Explanation
 
 Note: input in format MM DD YYYY
-  we need the output day
+  we need the output day.
 
   day_name---> method to Know the day
