@@ -3,9 +3,9 @@
 
 >>Sample Output
 WEDNESDAY
-Explanation
 
 Note: input in format MM DD YYYY
-  we need th eoutput day
+  we need the output day.
 
-  day_name---> module to Know the day
+  day_name---> method to Know the day
+  clender---> module
