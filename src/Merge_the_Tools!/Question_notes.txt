@@ -1,0 +1,14 @@
+>>Sample Input
+
+STDIN       Function
+-----       --------
+AABCAAADA   s = 'AABCAAADA'
+3           k = 3
+
+
+>>Sample Output
+AB
+CA
+AD
+
+note: dividde by secomd input and remove the diplicates
