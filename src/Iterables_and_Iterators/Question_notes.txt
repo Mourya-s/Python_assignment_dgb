@@ -1,0 +1,10 @@
+>>Sample Input
+4 
+a a c d
+2
+
+>>Sample Output
+0.8333
+
+NOTE: first get all th epossiblities of the list and 
+fraction--> number of sub list having 2nd letter / length of arr 
