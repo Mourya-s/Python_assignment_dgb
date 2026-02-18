@@ -1,0 +1,11 @@
+>>Sample Input
+08 05 2015
+
+>>Sample Output
+WEDNESDAY
+Explanation
+
+Note: input in format MM DD YYYY
+  we need th eoutput day
+
+  day_name---> module to Know the day
